@@ -1,0 +1,4 @@
+cron:
+- description: timer task
+  url: /cron
+  schedule: evenry 1 minutes
