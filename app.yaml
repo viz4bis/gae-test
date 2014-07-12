@@ -7,8 +7,8 @@ handlers:
 - url: /
   script: _go_app
 
-- url: /view
+- url: /setup
   script: _go_app
 
-- url: /connect-weibo
+- url: /fetch-and-store
   script: _go_app

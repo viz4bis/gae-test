@@ -1,4 +1,5 @@
 cron:
 - description: timer task
-  url: /cron
-  schedule: evenry 1 minutes
+  url: /fetch-and-store
+  schedule: every 10 minutes
+  timezone: Asia/Tokyo
